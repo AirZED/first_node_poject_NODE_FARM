@@ -1,0 +1,25 @@
+{
+  "name": "node_farm",
+  "version": "1.0.0",
+  "description": "learning node js",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AirZED/first_node_poject_NODE_FARM.git"
+  },
+  "author": "Mfoniso Ukpabio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AirZED/first_node_poject_NODE_FARM/issues"
+  },
+  "homepage": "https://github.com/AirZED/first_node_poject_NODE_FARM#readme",
+  "dependencies": {
+    "slugify": "^1.6.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
